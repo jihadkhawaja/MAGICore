@@ -22,7 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="..\..\assets\icon.png" Pack="true" PackagePath="icon.png" />
-    <None Include="..\..\assets\readme-header.svg" Pack="true" PackagePath="assets/readme-header.svg" />
+    <None Include="..\..\assets\readme-header.png" Pack="true" PackagePath="assets/readme-header.png" />
     <None Include="..\..\README.md" Pack="true" PackagePath="README.md" />
     <None Include="..\..\LICENSE" Pack="true" PackagePath="LICENSE" />
   </ItemGroup>

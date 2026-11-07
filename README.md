@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/readme-header.svg" alt="MagiCore semantic, temporal, and spatial memory systems online" width="100%" />
+    <img src="assets/readme-header.png" alt="A layered memory core with connected nodes, a timeline, and spatial contours" width="100%" />
 </div>
 
 <h1 align="center">MagiCore</h1>
